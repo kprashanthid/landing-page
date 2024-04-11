@@ -1,0 +1,17 @@
+.nav{
+  background-color: rgb(224, 48, 39) !important;
+  color:white !important;
+}
+.heading{
+  color:white;
+}
+
+.col1{
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+}
+.col2{
+  display: flex;
+  justify-content: center;
+}
